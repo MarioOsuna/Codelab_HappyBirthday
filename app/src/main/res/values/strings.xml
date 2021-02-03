@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy birthday</string>
+    <string name="felicidades">Happy Birthday Sam</string>
+    <string name="from">From Emma.</string>
+    <string name="content">Imagen para felicitar el cumpleaños</string>
+</resources>
